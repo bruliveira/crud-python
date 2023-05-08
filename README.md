@@ -2,7 +2,7 @@
 
 - Realizado com Python e o banco SQLite
 
-### Registro de contatos, com ações simples de crud.
+### Registro de contatos, com as ações crud.
 
 - Adcionar novo número;
 - Alterar número;
